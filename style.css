@@ -1,0 +1,125 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+
+
+body {
+  width: 1120px;
+  margin: 88px auto;
+  text-align: center;
+  background-color: #f5f4f0;
+}
+
+#page {
+  padding: 88px 80px;
+}
+
+h1{
+    font-size: 36px;
+    font-weight: bold;
+    text-align: start;
+}
+
+ #page img {
+  border-radius: 28px;
+  width: 100%;
+}
+
+ section p {
+  color: #333333;
+  font-size: 16px;
+  line-height: 22px;
+  font-style: italic;
+  text-align: center;
+  margin-top: 24px;
+}
+
+ .headline {
+  color: #E1624F;
+  font-size: 16;
+  font-weight: bold;
+  text-align: start;
+  margin-bottom: 8px;
+}
+
+ h2{
+  font-size: 36px;
+  font-weight: bold;
+  text-align: start;
+}
+
+
+header {
+  margin-bottom: 40px;
+}
+
+p {
+  text-align: start;
+}
+
+ul{
+  list-style-type: initial;
+  padding-left: 24px;
+}
+
+
+ul li{
+  text-align: start;
+}
+
+ul li::marker {
+  font-size: 16px;
+  color: #333333;
+}
+
+li.historia {
+  color: #0c51a7;
+  font-weight: bold;
+}
+
+li.casais{
+  color: #591b98;
+  font-weight: bold;
+}
+
+li.familias {
+  color: #e5245e;
+  font-weight: bold;
+}
+
+li.orcamento {
+  color: #e95e10;
+  font-weight: bold;
+}
+
+#divisor {
+  width: 100%;
+  height: 1px;
+  margin: 36px 0;
+  background-color: #d9d9d9;
+}
+
+footer {
+  color: #333333;
+  text-align: center;
+  margin-bottom: 48px;
+}
+
+footer p {
+  text-align: center;
+}
+
+footer img {
+  vertical-align: middle;
+}
+
+#card-travel1{
+  margin: 64px 0px 0px;
+}
+
+#card-travel2{
+  margin: 48px 0px;
+}
